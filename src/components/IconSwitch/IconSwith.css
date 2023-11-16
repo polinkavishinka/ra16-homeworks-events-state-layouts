@@ -1,0 +1,10 @@
+.material-icons {
+    color: grey;
+    margin-left: 95%;
+    margin-top: 1rem;
+}
+
+.material-icons:hover {
+    cursor: pointer;
+    color: black;
+}
